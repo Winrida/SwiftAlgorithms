@@ -6,10 +6,17 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		2DFD0C902812FDD8000A7216 /* selection_sort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = selection_sort.swift; sourceTree = "<group>"; };
+		2DFD0C9228130662000A7216 /* recursion_countdown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = recursion_countdown.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		2DFD0C892812FDB9000A7216 = {
 			isa = PBXGroup;
 			children = (
+				2DFD0C9228130662000A7216 /* recursion_countdown.swift */,
+				2DFD0C902812FDD8000A7216 /* selection_sort.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -29,6 +36,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = 2DFD0C892812FDB9000A7216;
 			projectDirPath = "";
