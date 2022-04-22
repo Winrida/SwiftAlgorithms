@@ -3,6 +3,7 @@ import Foundation
 // Сортировка выбором
 // Сложность O(n^2)
 
+
 let array = [5, 2, 8, 7, 4, 9]
 
 func findSmallestIndex (_ arr: [Int]) -> Int {
