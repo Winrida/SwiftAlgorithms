@@ -2,7 +2,6 @@ import Foundation
 
 // Обратный отсчёт путём рекурсии
 
-
 func countdown(value: Int) {
     print (value)
     if value > 0 {
